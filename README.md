@@ -1,16 +1,17 @@
-## Hi there 👋
+## About Me
 
-<!--
-**DevSammy-sam/DevSammy-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a high school student and passionate front end developer. I have hands-on experience with JavaScript, HTML, CSS, and Bootstrap, and I'm currently expanding my skills into backend web development with Node.js and Express. I'm always eager to learn, build cool projects, and collaborate with others in the tech community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**  
+- Frontend: JavaScript, HTML, CSS, Bootstrap  
+- Backend (Learning): Node.js, Express  
+- Version Control: Git
+
+---
+
+**Contact & Socials:**  
+- **LinkedIn:** [devOlabode](https://www.linkedin.com/in/devOlabode)  
+- **Instagram:** [devOlabode](https://instagram.com/devOlabode)  
+- **Email:** solabode499@gmail.com
