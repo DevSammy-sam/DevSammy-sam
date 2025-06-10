@@ -14,4 +14,5 @@ Hi! I'm a high school student and passionate front end developer. I have hands-o
 **Contact & Socials:**  
 - **LinkedIn:** [devOlabode](https://www.linkedin.com/in/devOlabode)  
 - **Instagram:** [devOlabode](https://instagram.com/devOlabode)  
+- **Twitter:** [devOlabode](https://x.com/devOlabode)  
 - **Email:** solabode499@gmail.com
